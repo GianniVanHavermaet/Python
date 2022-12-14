@@ -1,4 +1,4 @@
-# Usage of commandline arguments
+# Usage of command-line arguments
 
 Example how to use module 'argparse' for command-line arguments within a Python script.
 
